@@ -1,0 +1,6 @@
+.wrap{max-width:800px;margin:0 auto;padding:24px;font-family:system-ui,Arial}
+.card{border:1px solid #ddd;border-radius:12px;padding:16px;margin-top:16px}
+.row{display:flex;gap:8px;margin-top:8px}
+input{padding:8px;border:1px solid #bbb;border-radius:8px}
+button{padding:8px 12px;border:1px solid #333;border-radius:8px;background:#fff;cursor:pointer}
+.quote{margin-top:12px;padding:12px;background:#f7f7f7;border-radius:8px}
